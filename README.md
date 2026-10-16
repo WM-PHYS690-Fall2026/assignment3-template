@@ -2,9 +2,7 @@
 
 This is the starter repository for PHYS690 Assignment 3. You will build a small electrostatic field-solver workflow inspired by particle-in-cell (PIC) plasma codes: deposit prescribed charged particles onto a grid, solve Poisson's equation for the electrostatic potential, compute the electric field, and study how numerical choices change the result.
 
-The assignment connects the validation workflow from Lecture 10, the finite-difference
-boundary-value-problem methods from Lecture 11, and the particle-to-grid field-solver
-pipeline from Lecture 12:
+The assignment connects the validation workflow from Lecture 10, the finite-difference boundary-value-problem methods from Lecture 11, and the particle-to-grid field-solver pipeline from Lecture 12:
 
 - [Course lecture repository](https://github.com/jrstevenjlab/gradcompphys/tree/main/lectures)
 - [Lecture 10: Initial-value ODEs](https://github.com/jrstevenjlab/gradcompphys/blob/main/lectures/lecture10_9_29_26_ivp_ode.ipynb)
